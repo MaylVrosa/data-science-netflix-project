@@ -41,8 +41,4 @@ This project explores Netflix movie data to uncover trends in movie durations fr
 
 ---
 
-## ▶️ How to Run
-
-1. Clone this repository:
-   ```bash
    
